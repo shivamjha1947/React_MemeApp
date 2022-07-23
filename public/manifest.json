@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Meme App",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo192.png"
+  },
+  "short_name": "Meme App"
+}
